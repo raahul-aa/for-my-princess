@@ -1,4 +1,4 @@
-Valentine Proposal Website
+valentine-proposal-website
 
 A cute and interactive Valentine’s Day website made with HTML, CSS, and JavaScript.
 
